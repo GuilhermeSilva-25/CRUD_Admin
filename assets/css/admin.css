@@ -1,0 +1,66 @@
+body {
+  align-items: center;
+  background-color: #0a6aa6;
+  display: flex;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 98vh;
+  justify-content: center;
+}
+
+.container {
+  background-color: #f5f5f5;
+  border-radius: 30px;
+  height: 90%;
+  padding: 8px 30px;
+  width: 80%;
+}
+
+h1 {
+  font-size: 50px;
+  margin: 0;
+  padding: 24px;
+  text-align: center;
+}
+
+div {
+  margin: 24px 0;
+}
+
+input {
+  font-size: 28px;
+  padding: 8px;
+}
+
+.busca {
+  width: 70%;
+}
+
+.id {
+  width: 5%;
+}
+
+.btn {
+  background-color: #f2c335;
+  font-size: 32px;
+  font-weight: bold;
+  padding: 8px;
+}
+
+.btn:hover {
+  background-color: black;
+  color: #f2c335;
+  cursor: pointer;
+}
+
+label {
+  font-size: 32px;
+  margin: 16px 0;
+}
+
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 8px;
+  width: 100%;
+}
+
