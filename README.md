@@ -26,7 +26,7 @@ Este projeto foi construído utilizando as seguintes tecnologias web fundamentai
 
 Este projeto foi implantado e pode ser visualizado online através do seguinte link na Vercel:
 
-[CRUD de Administração de Usuários](https://loja-superman.vercel.app/)
+[CRUD de Administração de Usuários](https://crud-admin-amber.vercel.app/)
 
 
 Basta clicar no link acima para acessar o sistema.
