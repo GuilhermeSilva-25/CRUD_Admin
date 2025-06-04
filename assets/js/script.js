@@ -48,7 +48,6 @@ function adicionarTabela() {
 
       celulaID.textContent = user.id;
       celulaNome.textContent = user.nome;
-
       celulaSenha.textContent = user.senha;
 
       linhaTabela.appendChild(celulaID);
