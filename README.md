@@ -33,7 +33,7 @@ Basta clicar no link acima para acessar o sistema.
 
 O código-fonte deste projeto está disponível no seguinte repositório GitHub:
 
-[**https://github.com/GuilhermeSilva-25/Loja_Superman**](https://github.com/GuilhermeSilva-25/Loja_Superman)
+[**https://github.com/GuilhermeSilva-25/CRUD_Admin**](https://github.com/GuilhermeSilva-25/CRUD_Admin)
 
 ## Acesso do Administrador
 
